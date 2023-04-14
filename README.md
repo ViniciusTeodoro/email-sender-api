@@ -1,1 +1,3 @@
-Envio de Email via API REST e controle de mensageria com RabbitMQ
+API REST to send emails and message by RABBITMQ
+
+Learning about RabbitMQ
